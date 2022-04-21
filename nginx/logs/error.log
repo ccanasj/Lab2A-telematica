@@ -1,0 +1,578 @@
+2022/04/21 19:05:18 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:05:18 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:05:18 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:05:18 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:05:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:05:18 [notice] 1#1: start worker processes
+2022/04/21 19:05:18 [notice] 1#1: start worker process 22
+2022/04/21 19:06:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:06:23 [notice] 22#22: gracefully shutting down
+2022/04/21 19:06:23 [notice] 22#22: exiting
+2022/04/21 19:06:23 [notice] 22#22: exit
+2022/04/21 19:06:23 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:06:23 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:06:23 [notice] 1#1: exit
+2022/04/21 19:10:15 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:10:15 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:10:15 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:10:15 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:10:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:10:15 [notice] 1#1: start worker processes
+2022/04/21 19:10:15 [notice] 1#1: start worker process 22
+2022/04/21 19:10:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:10:24 [notice] 22#22: gracefully shutting down
+2022/04/21 19:10:24 [notice] 22#22: exiting
+2022/04/21 19:10:24 [notice] 22#22: exit
+2022/04/21 19:10:24 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:10:24 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:10:24 [notice] 1#1: exit
+2022/04/21 19:11:00 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:11:00 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:11:00 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:11:00 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:11:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:11:00 [notice] 1#1: start worker processes
+2022/04/21 19:11:00 [notice] 1#1: start worker process 22
+2022/04/21 19:11:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:11:07 [notice] 22#22: gracefully shutting down
+2022/04/21 19:11:07 [notice] 22#22: exiting
+2022/04/21 19:11:07 [notice] 22#22: exit
+2022/04/21 19:11:07 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:11:07 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:11:07 [notice] 1#1: exit
+2022/04/21 19:13:19 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:13:19 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:13:19 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:13:19 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:13:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:13:19 [notice] 1#1: start worker processes
+2022/04/21 19:13:19 [notice] 1#1: start worker process 24
+2022/04/21 19:13:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:13:26 [notice] 24#24: gracefully shutting down
+2022/04/21 19:13:26 [notice] 24#24: exiting
+2022/04/21 19:13:26 [notice] 24#24: exit
+2022/04/21 19:13:26 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/04/21 19:13:26 [notice] 1#1: worker process 24 exited with code 0
+2022/04/21 19:13:26 [notice] 1#1: exit
+2022/04/21 19:15:53 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:15:53 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:15:53 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:15:53 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:15:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:15:53 [notice] 1#1: start worker processes
+2022/04/21 19:15:53 [notice] 1#1: start worker process 24
+2022/04/21 19:16:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:16:10 [notice] 24#24: gracefully shutting down
+2022/04/21 19:16:10 [notice] 24#24: exiting
+2022/04/21 19:16:10 [notice] 24#24: exit
+2022/04/21 19:16:10 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/04/21 19:16:10 [notice] 1#1: worker process 24 exited with code 0
+2022/04/21 19:16:10 [notice] 1#1: exit
+2022/04/21 19:17:30 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:17:30 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:17:30 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:17:30 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:17:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:17:30 [notice] 1#1: start worker processes
+2022/04/21 19:17:30 [notice] 1#1: start worker process 23
+2022/04/21 19:17:33 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:17:33 [notice] 23#23: gracefully shutting down
+2022/04/21 19:17:33 [notice] 23#23: exiting
+2022/04/21 19:17:33 [notice] 23#23: exit
+2022/04/21 19:17:33 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/04/21 19:17:33 [notice] 1#1: worker process 23 exited with code 0
+2022/04/21 19:17:33 [notice] 1#1: exit
+2022/04/21 19:19:05 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:19:05 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:19:05 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:19:05 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:19:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:19:05 [notice] 1#1: start worker processes
+2022/04/21 19:19:05 [notice] 1#1: start worker process 24
+2022/04/21 19:19:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:19:17 [notice] 24#24: gracefully shutting down
+2022/04/21 19:19:17 [notice] 24#24: exiting
+2022/04/21 19:19:17 [notice] 24#24: exit
+2022/04/21 19:19:17 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/04/21 19:19:17 [notice] 1#1: worker process 24 exited with code 0
+2022/04/21 19:19:17 [notice] 1#1: exit
+2022/04/21 19:26:50 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:26:50 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:26:50 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:26:50 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:26:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:26:50 [notice] 1#1: start worker processes
+2022/04/21 19:26:50 [notice] 1#1: start worker process 24
+2022/04/21 19:27:14 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "52.1.219.5"
+2022/04/21 19:27:38 [error] 24#24: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:27:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:27:42 [notice] 24#24: gracefully shutting down
+2022/04/21 19:28:04 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:28:05 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:28:06 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:28:07 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:27 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:28 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:29 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:30 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:31 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:33 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:37 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:44 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:29:57 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/pepegan.ga/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/pepegan.ga/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2022/04/21 19:31:59 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:31:59 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:31:59 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:31:59 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:31:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:31:59 [notice] 1#1: start worker processes
+2022/04/21 19:31:59 [notice] 1#1: start worker process 22
+2022/04/21 19:32:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:32:21 [notice] 22#22: gracefully shutting down
+2022/04/21 19:32:21 [notice] 22#22: exiting
+2022/04/21 19:32:21 [notice] 22#22: exit
+2022/04/21 19:32:21 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:32:21 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:32:21 [notice] 1#1: exit
+2022/04/21 19:32:44 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:32:44 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:32:44 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:32:44 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:32:44 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:32:44 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:32:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:32:44 [notice] 1#1: start worker processes
+2022/04/21 19:32:44 [notice] 1#1: start worker process 22
+2022/04/21 19:33:08 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 205.169.39.112, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:33:10 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:33:10 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:33:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:33:18 [notice] 22#22: gracefully shutting down
+2022/04/21 19:34:12 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:34:12 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:34:12 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:34:12 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:34:12 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:34:12 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:34:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:34:12 [notice] 1#1: start worker processes
+2022/04/21 19:34:12 [notice] 1#1: start worker process 22
+2022/04/21 19:34:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:34:24 [notice] 22#22: gracefully shutting down
+2022/04/21 19:34:24 [notice] 22#22: exiting
+2022/04/21 19:34:24 [notice] 22#22: exit
+2022/04/21 19:34:24 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:34:24 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:34:24 [notice] 1#1: exit
+2022/04/21 19:36:38 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:36:38 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:36:38 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:36:38 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:36:38 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:36:38 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:36:38 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:36:38 [notice] 1#1: start worker processes
+2022/04/21 19:36:38 [notice] 1#1: start worker process 22
+2022/04/21 19:36:48 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:36:48 [notice] 22#22: gracefully shutting down
+2022/04/21 19:36:48 [notice] 22#22: exiting
+2022/04/21 19:36:48 [notice] 22#22: exit
+2022/04/21 19:36:48 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:36:48 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:36:48 [notice] 1#1: exit
+2022/04/21 19:38:59 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:38:59 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:38:59 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:38:59 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:38:59 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:38:59 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:38:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:38:59 [notice] 1#1: start worker processes
+2022/04/21 19:38:59 [notice] 1#1: start worker process 22
+2022/04/21 19:42:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:42:10 [notice] 22#22: gracefully shutting down
+2022/04/21 19:42:11 [notice] 22#22: exiting
+2022/04/21 19:42:11 [notice] 22#22: exit
+2022/04/21 19:42:11 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:42:11 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:42:11 [notice] 1#1: exit
+2022/04/21 19:42:32 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:42:32 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:42:32 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:42:32 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:42:32 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:42:32 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:42:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:42:32 [notice] 1#1: start worker processes
+2022/04/21 19:42:32 [notice] 1#1: start worker process 22
+2022/04/21 19:42:33 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "POST /wp-admin/admin-ajax.php HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/customize.php"
+2022/04/21 19:42:38 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/customize.php HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:38 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/customize.php"
+2022/04/21 19:42:39 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/customize.php HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:39 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/customize.php"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=60887a3970&1650570160298 HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "POST /wp-admin/admin-ajax.php HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=60887a3970&1650570160422 HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/admin-ajax.php?action=wp-compression-test&test=no&_ajax_nonce=60887a3970&1650570160539 HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:41 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/ HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-login.php"
+2022/04/21 19:42:42 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:42 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-admin/ HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-login.php"
+2022/04/21 19:42:43 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/"
+2022/04/21 19:42:43 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /wp-login.php HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/install.php?step=2"
+2022/04/21 19:42:43 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-login.php"
+2022/04/21 19:42:44 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/install.php?step=2"
+2022/04/21 19:42:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.104, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/wp-admin/install.php?step=1"
+2022/04/21 19:42:48 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:42:48 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:42:50 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:42:51 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:05 [error] 22#22: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 193.118.53.194, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "52.1.219.5"
+2022/04/21 19:43:05 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:06 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:07 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:07 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:08 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:08 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:09 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:09 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:10 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:10 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:12 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:12 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:13 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:13 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:14 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:43:14 [error] 22#22: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.22.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:43:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:43:25 [notice] 22#22: gracefully shutting down
+2022/04/21 19:46:43 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:46:43 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:46:43 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:46:43 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:46:43 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:46:43 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:46:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:46:43 [notice] 1#1: start worker processes
+2022/04/21 19:46:43 [notice] 1#1: start worker process 24
+2022/04/21 19:46:50 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:50 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:52 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:52 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:55 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:55 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:56 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:56 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:56 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:57 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:57 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:57 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:58 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:58 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:46:58 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:46:59 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:01 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:01 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:03 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:03 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:03 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:04 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:04 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:05 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:05 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:05 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:06 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:47:06 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.24.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:47:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:47:29 [notice] 24#24: gracefully shutting down
+2022/04/21 19:47:34 [notice] 24#24: exiting
+2022/04/21 19:47:34 [notice] 24#24: exit
+2022/04/21 19:47:34 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/04/21 19:47:34 [notice] 1#1: worker process 24 exited with code 0
+2022/04/21 19:47:34 [notice] 1#1: exit
+2022/04/21 19:49:46 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:49:46 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:49:46 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:49:46 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:49:46 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:49:46 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:49:46 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:49:46 [notice] 1#1: start worker processes
+2022/04/21 19:49:46 [notice] 1#1: start worker process 22
+2022/04/21 19:50:07 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:08 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:09 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:10 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:10 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:12 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:12 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:12 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:13 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:14 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:14 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:15 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:15 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:16 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:16 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:19 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:19 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:42 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:43 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:50:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.26.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:50:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:50:57 [notice] 22#22: gracefully shutting down
+2022/04/21 19:50:57 [notice] 22#22: exiting
+2022/04/21 19:50:57 [notice] 22#22: exit
+2022/04/21 19:50:58 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:50:58 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:50:58 [notice] 1#1: exit
+2022/04/21 19:51:10 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:51:10 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:51:10 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:51:10 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:51:10 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:51:10 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:51:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:51:10 [notice] 1#1: start worker processes
+2022/04/21 19:51:10 [notice] 1#1: start worker process 22
+2022/04/21 19:51:23 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:51:23 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:51:25 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:51:26 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:51:27 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:51:27 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:51:58 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:51:59 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:52:00 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:52:00 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.28.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:52:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:52:05 [notice] 22#22: gracefully shutting down
+2022/04/21 19:52:05 [notice] 22#22: exiting
+2022/04/21 19:52:05 [notice] 22#22: exit
+2022/04/21 19:52:05 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:52:05 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:52:05 [notice] 1#1: exit
+2022/04/21 19:54:09 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:54:09 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:54:09 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:54:09 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:54:09 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:54:09 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:54:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:54:09 [notice] 1#1: start worker processes
+2022/04/21 19:54:09 [notice] 1#1: start worker process 22
+2022/04/21 19:54:27 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:27 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:30 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:30 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:31 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:31 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:31 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:32 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:32 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:32 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:33 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:34 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:35 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:35 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:35 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:36 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:37 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:38 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:47 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:48 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:49 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:51 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:51 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:54:56 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:54:57 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:55:07 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:07 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:08 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:09 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:09 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:09 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:09 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:10 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:10 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:10 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga"
+2022/04/21 19:55:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://172.30.0.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:55:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:55:18 [notice] 22#22: gracefully shutting down
+2022/04/21 19:55:18 [notice] 22#22: exiting
+2022/04/21 19:55:18 [notice] 22#22: exit
+2022/04/21 19:55:18 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 19:55:18 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 19:55:18 [notice] 1#1: exit
+2022/04/21 19:57:37 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 19:57:37 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 19:57:37 [notice] 1#1: using the "epoll" event method
+2022/04/21 19:57:37 [notice] 1#1: nginx/1.21.6
+2022/04/21 19:57:37 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 19:57:37 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 19:57:37 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 19:57:37 [notice] 1#1: start worker processes
+2022/04/21 19:57:37 [notice] 1#1: start worker process 23
+2022/04/21 19:58:00 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:01 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:58:03 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /admin HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:03 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/admin"
+2022/04/21 19:58:05 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:05 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:58:06 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:07 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:08 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:08 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:58:08 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga"
+2022/04/21 19:58:09 [error] 23#23: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.16.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 19:58:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 19:58:35 [notice] 23#23: gracefully shutting down
+2022/04/21 19:58:35 [notice] 23#23: exiting
+2022/04/21 19:58:35 [notice] 23#23: exit
+2022/04/21 19:58:35 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/04/21 19:58:35 [notice] 1#1: worker process 23 exited with code 0
+2022/04/21 19:58:35 [notice] 1#1: exit
+2022/04/21 20:00:35 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 20:00:35 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 20:00:35 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:00:35 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:00:35 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:00:35 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:00:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:00:35 [notice] 1#1: start worker processes
+2022/04/21 20:00:35 [notice] 1#1: start worker process 22
+2022/04/21 20:01:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:01:11 [notice] 22#22: gracefully shutting down
+2022/04/21 20:01:11 [notice] 22#22: exiting
+2022/04/21 20:01:11 [notice] 22#22: exit
+2022/04/21 20:01:11 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 20:01:11 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 20:01:11 [notice] 1#1: exit
+2022/04/21 20:01:43 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 20:01:43 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 20:01:43 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:01:43 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:01:43 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:01:43 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:01:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:01:43 [notice] 1#1: start worker processes
+2022/04/21 20:01:43 [notice] 1#1: start worker process 22
+2022/04/21 20:01:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:01:52 [notice] 22#22: gracefully shutting down
+2022/04/21 20:01:52 [notice] 22#22: exiting
+2022/04/21 20:01:52 [notice] 22#22: exit
+2022/04/21 20:01:52 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 20:01:52 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 20:01:52 [notice] 1#1: exit
+2022/04/21 20:03:54 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:03:54 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:03:54 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:03:54 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:03:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:03:54 [notice] 1#1: start worker processes
+2022/04/21 20:03:54 [notice] 1#1: start worker process 22
+2022/04/21 20:04:13 [error] 22#22: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.112.3:9000", host: "pepegan.ga"
+2022/04/21 20:04:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:04:24 [notice] 22#22: gracefully shutting down
+2022/04/21 20:05:06 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 20:05:06 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 20:05:06 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:05:06 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:05:06 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:05:06 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:05:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:05:06 [notice] 1#1: start worker processes
+2022/04/21 20:05:06 [notice] 1#1: start worker process 22
+2022/04/21 20:05:28 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga"
+2022/04/21 20:05:29 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 20:05:32 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /robots.txt HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga"
+2022/04/21 20:05:32 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /robots.txt HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga"
+2022/04/21 20:06:05 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET / HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga"
+2022/04/21 20:06:06 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 200.12.187.101, server: pepegan.ga, request: "GET /favicon.ico HTTP/2.0", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga", referrer: "https://pepegan.ga/"
+2022/04/21 20:06:24 [error] 22#22: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 179.43.169.181, server: pepegan.ga, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.144.3:9000", host: "pepegan.ga"
+2022/04/21 20:06:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:06:39 [notice] 22#22: gracefully shutting down
+2022/04/21 20:06:39 [notice] 22#22: exiting
+2022/04/21 20:06:39 [notice] 22#22: exit
+2022/04/21 20:06:39 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 20:06:39 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 20:06:39 [notice] 1#1: exit
+2022/04/21 20:08:15 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:08:15 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:08:15 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:08:15 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:08:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:08:15 [notice] 1#1: start worker processes
+2022/04/21 20:08:15 [notice] 1#1: start worker process 22
+2022/04/21 20:08:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:08:34 [notice] 22#22: gracefully shutting down
+2022/04/21 20:08:34 [notice] 22#22: exiting
+2022/04/21 20:08:34 [notice] 22#22: exit
+2022/04/21 20:08:34 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 20:08:34 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 20:08:34 [notice] 1#1: exit
+2022/04/21 20:09:07 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 20:09:07 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 20:09:07 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:09:07 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:09:07 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:09:07 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:09:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:09:07 [notice] 1#1: start worker processes
+2022/04/21 20:09:07 [notice] 1#1: start worker process 22
+2022/04/21 20:09:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/04/21 20:09:27 [notice] 22#22: gracefully shutting down
+2022/04/21 20:09:27 [notice] 22#22: exiting
+2022/04/21 20:09:27 [notice] 22#22: exit
+2022/04/21 20:09:27 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/04/21 20:09:27 [notice] 1#1: worker process 22 exited with code 0
+2022/04/21 20:09:27 [notice] 1#1: exit
+2022/04/21 20:09:34 [warn] 1#1: conflicting server name "pepegan.ga" on 0.0.0.0:443, ignored
+2022/04/21 20:09:34 [warn] 1#1: conflicting server name "pepegan.ga" on [::]:443, ignored
+2022/04/21 20:09:34 [notice] 1#1: using the "epoll" event method
+2022/04/21 20:09:34 [notice] 1#1: nginx/1.21.6
+2022/04/21 20:09:34 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/04/21 20:09:34 [notice] 1#1: OS: Linux 5.11.0-1022-aws
+2022/04/21 20:09:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/04/21 20:09:34 [notice] 1#1: start worker processes
+2022/04/21 20:09:34 [notice] 1#1: start worker process 22
