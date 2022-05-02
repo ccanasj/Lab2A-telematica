@@ -19,7 +19,9 @@ Para intalar Docker-Compose sigue los pasos de la pagina oficial:
 
 [Docker-compose](https://docs.docker.com/compose/install/)
 
+##Diseño
 
+![image](https://user-images.githubusercontent.com/53055930/166334308-ff35ac5e-cee2-4fa3-a6d9-98d7586f5ed0.png)
 
 ## Demostracion
 [Pagina wordpress](https://pepegan.ga/)
